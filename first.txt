@@ -1,4 +1,2 @@
 this is first file
 edit
-
-from master
